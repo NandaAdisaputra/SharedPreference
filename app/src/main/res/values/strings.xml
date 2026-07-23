@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_aplikasi">Login Aplikasi</string>
+    <string name="username_isi_admin">Username (isi: admin)</string>
+    <string name="password_isi_1234">Password (isi: 1234)</string>
+    <string name="login">LOGIN</string>
+    <string name="selamat_datang_admin">Selamat Datang, Admin!</string>
+    <string name="logout">LOGOUT</string>
+</resources>
